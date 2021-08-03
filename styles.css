@@ -13,9 +13,6 @@ footer {
   color: #DBEDF3;
   font-family: sans-serif;
 }
-.disp{
-  /* display: none; */
-}
 .w{
   background-image: url("images/w.png");
   background-size: cover;
@@ -61,7 +58,7 @@ footer {
 }
 
 .pressed {
-  box-shadow: 0 3px 4px 0 #DBEDF3;
+  box-shadow: 0 8px 6px 0 #DBEDF3;
   opacity: 0.5;
 }
 
